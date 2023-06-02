@@ -29,6 +29,11 @@
 - [ ] Artificial Intelligence in Finance: A Python-Based Guide (2020), **Yves Hilpisch**
 
 ### Dev
+- [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017), **Martin Kleppmann**
+- [ ] Fundamentals of Software Architecture: An Engineering Approach (2020), **Mark Richards**
+- [ ] Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures (2021), **Neal Ford**
+- [ ] Building Event-Driven Microservices: Leveraging Organizational Data at Scale (2020), **Adam Bellemare**
+- [ ] Concurrent Programming (2022), **다카노 유키**
 - [ ] 도메인 주도 개발 시작하기 (2022), **최범균**
 - [ ] The Pragmatic Programmer (1999), **David Thomas**
 - [ ] Kollected Kode Vicious, The (2020), **George V. Neville-Neil** - 개발 지옥
@@ -39,6 +44,19 @@
 - [ ] Software Engineering at Google (2020), **Titus Winters, Tom Manshreck, Hyrum Wright**
 - [ ] Head First Design Patterns (2021), **Eric Freeman**
 - [ ] 쉽게 배워 바로 써먹는 디자인 패턴 (2020), **이호진**
+- [ ] 마이크로서비스 아키텍처 구축 가이드 (2023), **김용욱**
+- [ ] 객체지향의 사실과 오해 (2015), **조영호**
+- [ ] 오브젝트 (2019), **조영호**  
+- [ ] Grokking Functional Programming (2022), **Michal Plachta**
+
+
+### DS
+- [ ] Hands-On Data Visualization (2021), **Jack Dougherty**
+- [ ] 사례 분석으로 배우는 데이터 시각화 (2022), **황재진**
+
+### Web
+- [ ] OAuth 2 in Action (2017), **Justin Richer**
+- [ ] Real World HTTP (2019), 시부카와 요시키
 
 ### DevOps
 - [ ] 시작하세요! 도커/쿠버네티스 (2020), **용찬호**
@@ -55,3 +73,9 @@
 - [ ] The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact (2015), **Edmond Lau**
 - [ ] The Programmer's Brain: What every programmer needs to know about cognition (2021), **Felienne Hermans**
 - [ ] Own Your Tech Career: Soft skills for technologists (2021), **Don Jones**
+
+
+### Etc.
+- [ ] Mastering Apache Pulsar: Cloud Native Event Streaming at Scale (2022), **Jowanza Joseph**
+- [ ] MongoDB: The Definitive Guide: Powerful and Scalable Data Storage (2019), **Shannon Bradshaw**
+- [x] Web Development with Node and Express: Leveraging the JavaScript Stack (2019), **Ethan Brown**
