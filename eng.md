@@ -1,9 +1,9 @@
 # Engineering
 
 ## Computer Science
-- [ ] Operating System Concepts 10th (2021), **Abraham Silberschatz**
-- [ ] Computer Networking: A Top-Down Approach 6th (2012), **James F. Kurose**
-- [ ] Introduction to Algorithms 4th (2022), **Thomas H. Cormen**
+- [x] Operating System Concepts 10th (2021), **Abraham Silberschatz**
+- [x] Computer Networking: A Top-Down Approach 6th (2012), **James F. Kurose**
+- [x] Introduction to Algorithms 4th (2022), **Thomas H. Cormen**
 - [ ] The Mythical Man-Month (1975), **Frederick Brooks Jr.** - Software Engineering
 - [ ] Code: The Hidden Language of Computer Hardware and Software 2nd (2020), **Charles Petzold**
 - [ ] 컴파일러의 이해 (2020), **박두순**
