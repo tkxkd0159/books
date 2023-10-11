@@ -8,6 +8,7 @@
 - [ ] 쉽게 배우는 소프트웨어 공학 (2021), **김치수**
 - [ ] Computer Organization and Design RISC-V Edition: The Hardware Software Interface (2020), **David A. Patterson**
 - [ ] Structure and Interpretation of Computer Programs (SICP) 2nd (1996), **Harold Abelson**
+- [ ] The Secret Life of Programs: Understand Computers (2019), Jonathan E. Steinhart
 
 ## Algorithms & Data Strucutures
 - [ ] Introduction to Algorithms 4th (2022), **Thomas H. Cormen**
