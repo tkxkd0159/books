@@ -1,6 +1,9 @@
 # Humanities & Social Science
 
 ## Economics
+- [ ] 어나더 경제사, **홍기빈** (2023)
+- [ ] Radical Markets: Uprooting Capitalism and Democracy for a Just Society, **Glen Weyl** (2018) => <래디컬 마켓>
+- [ ] Golden Fetters: The Gold Standard and the Great Depression, **Barry Eichengreen** (1996) => <황금족쇄: 금본위제와 대공황>
 - [ ] The Nature of Money, **Geoffrey Ingham**, (2004) => <돈의 본성>
 - [ ] Tower of Basel: The Shadowy History of the Secret Bank that Runs the World, **Adam LeBor** (2014) => <바젤탑: 국제결제은행(BIS)의 역사>
 - [ ] 관점을 세우는 화폐 금융론 (2018), **정대영**
@@ -11,6 +14,7 @@
 - [ ] The Price of Time: The Real Story of Interest (2022), **Edward Chancellor**  => <금리의 역습: 금리는 어떻게 부의 질서를 뒤흔드는가>
 - [ ] Life after Capitalism: The Meaning of Wealth, the Future of the Economy, and the Time Theory of Money, **George Gilder** (2023)
 - [ ] The Future of Money: How the Digital Revolution Is Transforming Currencies and Finance, **Eswar S. Prasad** (2023)
+- [ ] Blockchain Radicals: How Capitalism Ruined Crypto and How to Fix It, **Joshua Dávila** (2023)
 
 ## Political Science
 - [ ] The Federalist Papers, **Alexander Hamilton** (1788) => <페더럴리스트>
@@ -25,3 +29,5 @@
 - [ ] Guns, Germs, and Steel: The Fates of Human Societies, **Jared Diamond Ph.D.** (1997) => <총균쇠>
 - [ ] Collapse: How Societies Choose to Fail or Succeed, **Jared Diamond Ph.D.** (2004) => <문명의 붕괴>
 - [ ] Upheaval: Turning Points for Nations in Crisis, **Jared Diamond Ph.D.** (2019) => <대변동 위기, 선택, 변화>
+
+## Game theory
