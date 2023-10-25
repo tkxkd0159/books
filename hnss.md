@@ -31,3 +31,4 @@
 - [ ] Upheaval: Turning Points for Nations in Crisis, **Jared Diamond Ph.D.** (2019) => <대변동 위기, 선택, 변화>
 
 ## Game theory
+- [ ] The Republic of Beliefs: A New Approach to Law and Economics, **Kaushik Basu** (2018) => <믿음의 공화국 : 게임이론으로 풀어낸 법경제학의 새로운 패러다임>
