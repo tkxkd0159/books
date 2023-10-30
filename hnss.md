@@ -1,5 +1,10 @@
 # Humanities & Social Science
 
+- [Economics](#economics)
+- [Political Science](#political-science)
+- [History](#history)
+- [Game theory](#game-theory)
+
 ## Economics
 - [ ] 어나더 경제사, **홍기빈** (2023)
 - [ ] Radical Markets: Uprooting Capitalism and Democracy for a Just Society, **Glen Weyl** (2018) => <래디컬 마켓>
