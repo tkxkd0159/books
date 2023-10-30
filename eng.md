@@ -1,3 +1,17 @@
+- [Computer Science](#computer-science)
+  - [Algorithms \& Data Strucutures](#algorithms--data-strucutures)
+  - [Compiler](#compiler)
+  - [Database](#database)
+- [Dev](#dev)
+  - [Theory](#theory)
+  - [Web](#web)
+  - [DevOps](#devops)
+  - [Soft skills](#soft-skills)
+  - [Etc.](#etc)
+- [AI](#ai)
+- [DS](#ds)
+
+
 # Computer Science
 - [x] Computer Networking: A Top-Down Approach 6th (2012), **James F. Kurose**
 - [ ] 후니의 쉽게 쓴 시스코 네트워킹 (2020), **진강훈**
@@ -65,8 +79,9 @@
 - [ ] 따라하며 배우는 AWS 네트워크 입분 (2020), **김원일**
 - [ ] 서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 (2019), **김담형**
 - [ ] AWS 컨테이너 설계와 구축 철저 입문 (2022), **아라이 마사야**
+- [ ] Grokking Continuous Delivery (2022), **Christie Wilson**
 
-## Methodology
+## Soft skills
 - [ ] The Mythical Man-Month (1975), **Frederick Brooks Jr.**
 - [ ] Engineers Survival Guide (2021), **Merih Taze**
 - [ ] Sofware Craftsman, The (2014), **Sandro Mancuso** - 소프트웨어 장인
