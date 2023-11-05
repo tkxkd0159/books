@@ -63,8 +63,6 @@
 - [ ] 오브젝트 (2019), **조영호**  
 - [ ] Grokking Functional Programming (2022), **Michal Plachta**
 - [ ] Working Effectively with Legacy Code (2004), **Michael Feathers**
-
-
 - [ ] Test Driven Development: By Example (2002), **Kent Beck**
 - [ ] Unit Testing Principles, Practices, and Patterns (2021), **Vladimir Khorikov**
 - [ ] Effective Software Testing: A developer's guide (2022), **Mauricio Aniche**
@@ -121,21 +119,15 @@
 
 ## DevOps
 - [ ] Grokking Continuous Delivery (2022), **Christie Wilson**
-
-
 - [ ] 시작하세요! 도커/쿠버네티스 (2020), **용찬호**
 - [ ] 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 (2021), **조훈**
 - [ ] 24단게 실습으로 정복하는 쿠버네티스 (2022), **이정훈**
 - [ ] Learn Kubernetes in a Month of Lunches (2021), **Elton Stoneman**
 - [ ] Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2023), **Brendan Burns**
 - [ ] The Kubernetes Book: 2023 Edition (2023), **Nigel Poulton**
-
-
 - [ ] 따라하며 배우는 AWS 네트워크 입분 (2020), **김원일**
 - [ ] 서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 (2019), **김담형**
 - [ ] AWS 컨테이너 설계와 구축 철저 입문 (2022), **아라이 마사야**
-
-
 - [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
 
 # AI
