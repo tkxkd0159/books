@@ -51,16 +51,21 @@
 # Dev
 ## Theory
 - [ ] Software Engineering at Google (2020), **Titus Winters, Tom Manshreck, Hyrum Wright**
-- [ ] 동시성 프로그래밍 (2022), **다카노 유키**
 - [ ] The Pragmatic Programmer (1999), **David Thomas**
 - [ ] Kollected Kode Vicious, The (2020), **George V. Neville-Neil** - 개발 지옥
 - [ ] 도메인 주도 개발 시작하기 (2022), **최범균**
 - [ ] Clean Code: A Handbook of Agile Software Craftsmanship (2008), **Robert C. Martin**
 - [ ] Refactoring: Improving the Design of Existing Code 2nd (2018), **Martin Fowler**
+
+---
+
 - [ ] Head First Design Patterns (2021), **Eric Freeman**
 - [ ] 쉽게 배워 바로 써먹는 디자인 패턴 (2020), **이호진**
 - [ ] 객체지향의 사실과 오해 (2015), **조영호**
-- [ ] 오브젝트 (2019), **조영호**  
+- [ ] 오브젝트 (2019), **조영호**
+- [ ] 동시성 프로그래밍 (2022), **다카노 유키**
+
+---
 - [ ] Grokking Functional Programming (2022), **Michal Plachta**
 - [ ] Working Effectively with Legacy Code (2004), **Michael Feathers**
 - [ ] Test Driven Development: By Example (2002), **Kent Beck**
@@ -113,22 +118,44 @@
 - [ ] Personal Kanban: Mapping Work | Navigating Life (2011), **Jim Benson**
 
 ## Etc.
-- [ ] Mastering Apache Pulsar: Cloud Native Event Streaming at Scale (2022), **Jowanza Joseph**
 - [ ] MongoDB: The Definitive Guide: Powerful and Scalable Data Storage (2019), **Shannon Bradshaw**
 - [x] Web Development with Node and Express: Leveraging the JavaScript Stack (2019), **Ethan Brown**
 
 ## DevOps
 - [ ] Grokking Continuous Delivery (2022), **Christie Wilson**
+- [ ] Infrastructure as Code: Dynamic Systems for the Cloud Age (2021), **Kief Morris**
+- [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
+- [ ] Terraform: Up and Running: Writing Infrastructure as Code (2022), **Yevgeniy Brikman**
+- [ ] Apache Pulsar in Action (2021), **David Kjerrumgaard**
+- [ ] Mastering Apache Pulsar: Cloud Native Event Streaming at Scale (2022), **Jowanza Joseph**
+- [ ] Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale (2021), **Gwen Shapira**
+---
+- [ ] Nginx HTTP Server (2018), **Martin Bjerretoft Fjordvald**
+- [ ] NGINX Unit Cookbook: Recipes for Using a Versatile Open Source Server (2020), **Derek DeJonghe**
+---
+- [ ] Container Security (2020), **Liz Rice**
+- [ ] Continuous Delivery with Docker and Jenkins (2022), **Rafal Leszko**
 - [ ] 시작하세요! 도커/쿠버네티스 (2020), **용찬호**
 - [ ] 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 (2021), **조훈**
 - [ ] 24단게 실습으로 정복하는 쿠버네티스 (2022), **이정훈**
 - [ ] Learn Kubernetes in a Month of Lunches (2021), **Elton Stoneman**
 - [ ] Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2023), **Brendan Burns**
 - [ ] The Kubernetes Book: 2023 Edition (2023), **Nigel Poulton**
+
+---
 - [ ] 따라하며 배우는 AWS 네트워크 입분 (2020), **김원일**
 - [ ] 서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 (2019), **김담형**
 - [ ] AWS 컨테이너 설계와 구축 철저 입문 (2022), **아라이 마사야**
-- [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
+- [ ] AWS Cookbook: Recipes for Success on AWS (2022), **John Culkin**
+
+---
+- [ ] Linux Security Cookbook (2003), **Daniel J. Barrett**
+- [ ] The Linux Programming Interface: A Linux and UNIX System Programming Handbook (2010), **Michael Kerrisk**
+- [ ] The Linux Command Line (2019), **William Shotts**
+- [ ] Linux Bible (2020), **Christopher Negus**
+- [ ] How Linux Works (2021), **Brian Ward**
+- [ ] Linux Command Line and Shell Scripting Bible (2021), **Richard Blum**
+- [ ] Mastering Ubuntu Server (2022), **Jay LaCroix**
 
 # AI
 - [ ] AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence (2020), **Laurence Moroney**
