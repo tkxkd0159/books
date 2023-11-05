@@ -4,6 +4,10 @@
   - [Database](#database)
 - [Dev](#dev)
   - [Theory](#theory)
+  - [System Design](#system-design)
+    - [Architecture](#architecture)
+    - [Data Engineering](#data-engineering)
+    - [Distributed System](#distributed-system)
   - [Web](#web)
   - [DevOps](#devops)
   - [Soft skills](#soft-skills)
@@ -38,6 +42,7 @@
 
 ## Database
 - [ ] MySQL로 배우는 데이터베이스 개론과 실습, **박우창**
+- [ ] Database Internals: A Deep Dive into How Distributed Data Systems Work (2019), **Alex Petrov**
 - [ ] Architecture of a Database System (2017), **Joseph M. Hellerstein**
 - [ ] Readings in Database Systems (2005), **peter Bailis**
 - [ ] Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World 3rd (2012), **William Kent**
@@ -46,27 +51,55 @@
 # Dev
 ## Theory
 - [ ] Software Engineering at Google (2020), **Titus Winters, Tom Manshreck, Hyrum Wright**
-- [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017), **Martin Kleppmann**
-- [ ] Fundamentals of Software Architecture: An Engineering Approach (2020), **Mark Richards**
-- [ ] Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures (2021), **Neal Ford**
-- [ ] Building Event-Driven Microservices: Leveraging Organizational Data at Scale (2020), **Adam Bellemare**
-- [ ] Concurrent Programming (2022), **다카노 유키**
+- [ ] 동시성 프로그래밍 (2022), **다카노 유키**
 - [ ] The Pragmatic Programmer (1999), **David Thomas**
 - [ ] Kollected Kode Vicious, The (2020), **George V. Neville-Neil** - 개발 지옥
 - [ ] 도메인 주도 개발 시작하기 (2022), **최범균**
-- [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design (2017), **Robert C. Martin**
 - [ ] Clean Code: A Handbook of Agile Software Craftsmanship (2008), **Robert C. Martin**
 - [ ] Refactoring: Improving the Design of Existing Code 2nd (2018), **Martin Fowler**
 - [ ] Head First Design Patterns (2021), **Eric Freeman**
 - [ ] 쉽게 배워 바로 써먹는 디자인 패턴 (2020), **이호진**
-- [ ] 마이크로서비스 아키텍처 구축 가이드 (2023), **김용욱**
 - [ ] 객체지향의 사실과 오해 (2015), **조영호**
 - [ ] 오브젝트 (2019), **조영호**  
 - [ ] Grokking Functional Programming (2022), **Michal Plachta**
 - [ ] Working Effectively with Legacy Code (2004), **Michael Feathers**
+
+
 - [ ] Test Driven Development: By Example (2002), **Kent Beck**
 - [ ] Unit Testing Principles, Practices, and Patterns (2021), **Vladimir Khorikov**
 - [ ] Effective Software Testing: A developer's guide (2022), **Mauricio Aniche**
+
+## System Design
+- [ ] No Silver Bullet —Essence and Accident in Software Engineering (1986), **Fred Brooks**
+- [ ] Dependency Injection Principles, Practices, and Patterns (2019), **Mark Seemann**
+- [ ] API Design Patterns (2021), **JJ Geewax**
+
+### Architecture
+- [ ] Just Enough Software Architecture: A Risk-Driven Approach (2010), **George H. Fairbanks**
+- [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design (2017), **Robert C. Martin**
+- [ ] Software Architect's Handbook: Become a successful software architect by implementing effective architecture concepts (2018), **Joseph Ingeno**
+- [ ] Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems (2020), **Heather Adkins**
+- [ ] Fundamentals of Software Architecture: An Engineering Approach (2020), **Mark Richards**
+- [ ] Building Event-Driven Microservices: Leveraging Organizational Data at Scale (2020), **Adam Bellemare**
+- [ ] Building Microservices: Designing Fine-Grained Systems (2021), **Sam Newman**
+- [ ] Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures (2021), **Neal Ford**
+- [ ] Foundations of Scalable Systems: Designing Distributed Architectures (2022), **Ian Gorton**
+- [ ] 마이크로서비스 아키텍처 구축 가이드 (2023), **김용욱**
+
+### Data Engineering
+- [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017), **Martin Kleppmann**
+- [ ] Building an Anonymization Pipeline: Creating Safe Data (2020), **Luk Arbuckle**
+- [ ] The Practitioner's Guide to Graph Data: Applying Graph Thinking and Graph Technologies to Solve Complex Problems (2020), **Denise Gosnell Ph.D.**
+- [ ] Data Mesh: Delivering Data-Driven Value at Scale (2022), **Zhamak Dehghani**
+- [ ] Data-Oriented Programming: Reduce software complexity (2022), **Yehonathan Sharvit**
+- [ ] Fundamentals of Data Engineering: Plan and Build Robust Data Systems (2022), **Joe Reis**
+- [ ] Streaming Data Mesh: A Model for Optimizing Real-Time Data Services (2023), **Hubert Dulay**
+
+
+### Distributed System
+- [ ] Introduction to Reliable and Secure Distributed Programming (2011), **Christian Cachin**
+- [ ] Distributed Systems (2017), **Maarten van Steen**
+- [ ] Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services (2018), **Brendan Burns**
 
 ## Web
 - [ ] OAuth 2 in Action (2017), **Justin Richer**
@@ -81,7 +114,7 @@
 - [ ] AWS 컨테이너 설계와 구축 철저 입문 (2022), **아라이 마사야**
 - [ ] Grokking Continuous Delivery (2022), **Christie Wilson**
 
-## Soft skills
+## Soft Skills
 - [ ] The Mythical Man-Month (1975), **Frederick Brooks Jr.**
 - [ ] Engineers Survival Guide (2021), **Merih Taze**
 - [ ] Sofware Craftsman, The (2014), **Sandro Mancuso** - 소프트웨어 장인
@@ -96,12 +129,18 @@
 - [x] Web Development with Node and Express: Leveraging the JavaScript Stack (2019), **Ethan Brown**
 
 # AI
-- [ ] Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022), **Chip Huyen**
 - [ ] AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence (2020), **Laurence Moroney**
-- [ ] Natural Language Processing with Transformers (2022), **Lewis Tunstall**
 - [ ] Artificial Intelligence in Finance: A Python-Based Guide (2020), **Yves Hilpisch**
+- [ ] Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022), **Chip Huyen**
+- [ ] Natural Language Processing with Transformers (2022), **Lewis Tunstall**
 
 # DS
+- [ ] Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking (2013), **Foster Provost**
+- [ ] Storytelling with Data: A Data Visualization Guide for Business Professionals (2015), **Cole Nussbaumer Knaflic**
+- [ ] Storytelling with Data: Let's Practice! (2019), **Cole Nussbaumer Knaflic**
+- [ ] Hands-On Data Analysis with Pandas (2021), **Stefanie Molin**
+- [ ] Interactive Dashboards and Data Apps with Plotly and Dash (2021), **Elias Dabbas**
 - [ ] Hands-On Data Visualization (2021), **Jack Dougherty**
+- [ ] Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter (2022), **Wes McKinney**
 - [ ] 사례 분석으로 배우는 데이터 시각화 (2022), **황재진**
 
