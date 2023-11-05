@@ -9,9 +9,9 @@
     - [Data Engineering](#data-engineering)
     - [Distributed System](#distributed-system)
   - [Web](#web)
-  - [DevOps](#devops)
-  - [Soft skills](#soft-skills)
+  - [Soft Skills](#soft-skills)
   - [Etc.](#etc)
+- [DevOps](#devops)
 - [AI](#ai)
 - [DS](#ds)
 
@@ -105,15 +105,6 @@
 - [ ] OAuth 2 in Action (2017), **Justin Richer**
 - [ ] Real World HTTP (2019), 시부카와 요시키
 
-## DevOps
-- [ ] 시작하세요! 도커/쿠버네티스 (2020), **용찬호**
-- [ ] 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 (2021), **조훈**
-- [ ] 24단게 실습으로 정복하는 쿠버네티스 (2022), **이정훈**
-- [ ] 따라하며 배우는 AWS 네트워크 입분 (2020), **김원일**
-- [ ] 서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 (2019), **김담형**
-- [ ] AWS 컨테이너 설계와 구축 철저 입문 (2022), **아라이 마사야**
-- [ ] Grokking Continuous Delivery (2022), **Christie Wilson**
-
 ## Soft Skills
 - [ ] The Mythical Man-Month (1975), **Frederick Brooks Jr.**
 - [ ] Engineers Survival Guide (2021), **Merih Taze**
@@ -127,6 +118,25 @@
 - [ ] Mastering Apache Pulsar: Cloud Native Event Streaming at Scale (2022), **Jowanza Joseph**
 - [ ] MongoDB: The Definitive Guide: Powerful and Scalable Data Storage (2019), **Shannon Bradshaw**
 - [x] Web Development with Node and Express: Leveraging the JavaScript Stack (2019), **Ethan Brown**
+
+## DevOps
+- [ ] Grokking Continuous Delivery (2022), **Christie Wilson**
+
+
+- [ ] 시작하세요! 도커/쿠버네티스 (2020), **용찬호**
+- [ ] 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 (2021), **조훈**
+- [ ] 24단게 실습으로 정복하는 쿠버네티스 (2022), **이정훈**
+- [ ] Learn Kubernetes in a Month of Lunches (2021), **Elton Stoneman**
+- [ ] Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2023), **Brendan Burns**
+- [ ] The Kubernetes Book: 2023 Edition (2023), **Nigel Poulton**
+
+
+- [ ] 따라하며 배우는 AWS 네트워크 입분 (2020), **김원일**
+- [ ] 서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 (2019), **김담형**
+- [ ] AWS 컨테이너 설계와 구축 철저 입문 (2022), **아라이 마사야**
+
+
+- [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
 
 # AI
 - [ ] AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence (2020), **Laurence Moroney**
