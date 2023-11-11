@@ -52,7 +52,8 @@
 ## Theory
 - [ ] Software Engineering at Google (2020), **Titus Winters, Tom Manshreck, Hyrum Wright**
 - [ ] The Pragmatic Programmer (1999), **David Thomas**
-- [ ] Kollected Kode Vicious, The (2020), **George V. Neville-Neil** - 개발 지옥
+- [ ] Programming Pearls (1999), **Jon Bentley** => 생각하는 프로그래밍
+- [ ] Kollected Kode Vicious, The (2020), **George V. Neville-Neil** => 개발 지옥
 - [ ] 도메인 주도 개발 시작하기 (2022), **최범균**
 - [ ] Clean Code: A Handbook of Agile Software Craftsmanship (2008), **Robert C. Martin**
 - [ ] Refactoring: Improving the Design of Existing Code 2nd (2018), **Martin Fowler**
