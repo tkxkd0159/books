@@ -10,7 +10,7 @@
     - [Distributed System](#distributed-system)
   - [Web](#web)
   - [Soft Skills](#soft-skills)
-  - [Etc.](#etc)
+  - [Hands-On](#hands-on)
 - [DevOps](#devops)
 - [AI](#ai)
 - [DS](#ds)
@@ -27,6 +27,7 @@
 - [ ] Computer Organization and Design RISC-V Edition: The Hardware Software Interface (2020), **David A. Patterson**
 - [ ] Structure and Interpretation of Computer Programs (SICP) 2nd (1996), **Harold Abelson**
 - [ ] The Secret Life of Programs: Understand Computers (2019), Jonathan E. Steinhart
+- [ ] Dive Into Systems: A Gentle Introduction to Computer Systems (2022), **Suzanne J. Matthews** => 컴퓨터 시스템 딥다이브
 
 ## Algorithms & Data Strucutures
 - [ ] Introduction to Algorithms 4th (2022), **Thomas H. Cormen**
@@ -76,17 +77,17 @@
 ## System Design
 - [ ] No Silver Bullet —Essence and Accident in Software Engineering (1986), **Fred Brooks**
 - [ ] Dependency Injection Principles, Practices, and Patterns (2019), **Mark Seemann**
-- [ ] API Design Patterns (2021), **JJ Geewax**
+- [ ] Understanding Software Dynamics (2021), **Richard L. Sites**
 
 ### Architecture
 - [ ] Just Enough Software Architecture: A Risk-Driven Approach (2010), **George H. Fairbanks**
 - [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design (2017), **Robert C. Martin**
 - [ ] Software Architect's Handbook: Become a successful software architect by implementing effective architecture concepts (2018), **Joseph Ingeno**
-- [ ] Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems (2020), **Heather Adkins**
-- [ ] Fundamentals of Software Architecture: An Engineering Approach (2020), **Mark Richards**
+- [ ] <ins>Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems</ins> (2020), **Heather Adkins**
+- [ ] <ins>Fundamentals of Software Architecture: An Engineering Approach</ins> (2020), **Mark Richards**
 - [ ] Building Event-Driven Microservices: Leveraging Organizational Data at Scale (2020), **Adam Bellemare**
 - [ ] Building Microservices: Designing Fine-Grained Systems (2021), **Sam Newman**
-- [ ] Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures (2021), **Neal Ford**
+- [ ] <ins>Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures</ins> (2021), **Neal Ford**
 - [ ] Foundations of Scalable Systems: Designing Distributed Architectures (2022), **Ian Gorton**
 - [ ] 마이크로서비스 아키텍처 구축 가이드 (2023), **김용욱**
 
@@ -108,17 +109,19 @@
 ## Web
 - [ ] OAuth 2 in Action (2017), **Justin Richer**
 - [ ] Real World HTTP (2019), 시부카와 요시키
+- [ ] API Design Patterns (2021), **JJ Geewax**
+- [ ] Designing APIs with Swagger and OpenAPI (2022), **Joshua S. Ponelat** => OpenAPI와 스웨거를 활용한 실전 API 설계
 
 ## Soft Skills
 - [ ] The Mythical Man-Month (1975), **Frederick Brooks Jr.**
 - [ ] Engineers Survival Guide (2021), **Merih Taze**
-- [ ] Sofware Craftsman, The (2014), **Sandro Mancuso** - 소프트웨어 장인
+- [ ] Sofware Craftsman, The (2014), **Sandro Mancuso** => 소프트웨어 장인
 - [ ] The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact (2015), **Edmond Lau**
 - [ ] The Programmer's Brain: What every programmer needs to know about cognition (2021), **Felienne Hermans**
 - [ ] Own Your Tech Career: Soft skills for technologists (2021), **Don Jones**
 - [ ] Personal Kanban: Mapping Work | Navigating Life (2011), **Jim Benson**
 
-## Etc.
+## Hands-On
 - [ ] MongoDB: The Definitive Guide: Powerful and Scalable Data Storage (2019), **Shannon Bradshaw**
 - [x] Web Development with Node and Express: Leveraging the JavaScript Stack (2019), **Ethan Brown**
 
