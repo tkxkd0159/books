@@ -18,6 +18,7 @@
 
 # Common Knowledge
 - [ ] How to Solve It: A New Aspect of Mathematical Method (2014)
+- [ ] Clean Agile: Back to Basics (2019), **Robert C. Martin**
 
 # Computer Science
 - [x] Computer Networking: A Top-Down Approach 6th (2012), **James F. Kurose**
@@ -57,25 +58,35 @@
 - [ ] Software Engineering at Google (2020), **Titus Winters, Tom Manshreck, Hyrum Wright**
 - [ ] The Pragmatic Programmer (1999), **David Thomas**
 - [ ] Programming Pearls (1999), **Jon Bentley** => 생각하는 프로그래밍
-- [ ] Kollected Kode Vicious, The (2020), **George V. Neville-Neil** => 개발 지옥
-- [ ] 도메인 주도 개발 시작하기 (2022), **최범균**
+- [ ] Working Effectively with Legacy Code (2004), **Michael Feathers**
 - [ ] Clean Code: A Handbook of Agile Software Craftsmanship (2008), **Robert C. Martin**
 - [ ] Refactoring: Improving the Design of Existing Code 2nd (2018), **Martin Fowler**
-
+- [ ] The Clean Coder: A Code of Conduct for Professional Programmers (2011), **Robert C. Martin**
+- [ ] Clean Craftsmanship: Disciplines, Standards, and Ethics (2021), **Robert C. Martin**
+- [ ] Kollected Kode Vicious, The (2020), **George V. Neville-Neil** => 개발 지옥
+- [ ] 도메인 주도 개발 시작하기 (2022), **최범균**
+- [ ] Write Great Code, Volume 1, Understanding the Machine (2020)
+- [ ] Write Great Code, Volume 2, Thinking Low-Level, Writing High-Level (2020)
+- [ ] Write Great Code, Volume 3: Engineering Software (2020)
+- [ ] Five Lines of Code: How and when to refactor (2021)
+- [ ] Good Code, Bad Code: Think like a software engineer (2021)
+- [ ] Street Coder: The rules to break and how to break them (2021)
 ---
-
-- [ ] Head First Design Patterns (2021), **Eric Freeman**
+- [ ] Design Patterns: Elements of Reusable Object-Oriented Software (1994)
+- [ ] Dive into Design patterns (2019)
 - [ ] 쉽게 배워 바로 써먹는 디자인 패턴 (2020), **이호진**
+- [ ] Head First Design Patterns (2021), **Eric Freeman**
+---
 - [ ] 객체지향의 사실과 오해 (2015), **조영호**
 - [ ] 오브젝트 (2019), **조영호**
-- [ ] 동시성 프로그래밍 (2022), **다카노 유키**
-
 ---
-- [ ] Grokking Functional Programming (2022), **Michal Plachta**
-- [ ] Working Effectively with Legacy Code (2004), **Michael Feathers**
 - [ ] Test Driven Development: By Example (2002), **Kent Beck**
 - [ ] Unit Testing Principles, Practices, and Patterns (2021), **Vladimir Khorikov**
 - [ ] Effective Software Testing: A developer's guide (2022), **Mauricio Aniche**
+---
+- [ ] Grokking Functional Programming (2022), **Michal Plachta**
+- [ ] 동시성 프로그래밍 (2022), **다카노 유키**
+
 
 ## System Design
 - [ ] No Silver Bullet —Essence and Accident in Software Engineering (1986), **Fred Brooks**
