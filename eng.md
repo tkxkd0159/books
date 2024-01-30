@@ -28,10 +28,12 @@
 - [ ] 쉽게 배우는 운영체제 (2018), **조성호**
 - [ ] Operating Systems: Three Easy Pieces (2018), **Remzi H Arpaci-Dusseau**
 - [ ] 쉽게 배우는 소프트웨어 공학 (2021), **김치수**
-- [ ] Computer Organization and Design RISC-V Edition: The Hardware Software Interface (2020), **David A. Patterson**
+---
+- [ ] The Secret Life of Programs: Understand Computers (2019), **Jonathan E. Steinhart**
 - [ ] Structure and Interpretation of Computer Programs (SICP) 2nd (1996), **Harold Abelson**
-- [ ] The Secret Life of Programs: Understand Computers (2019), Jonathan E. Steinhart
+- [ ] The Elements of Computing Systems (2021)
 - [ ] Dive Into Systems: A Gentle Introduction to Computer Systems (2022), **Suzanne J. Matthews** => 컴퓨터 시스템 딥다이브
+- [ ] Computer Organization and Design RISC-V Edition: The Hardware Software Interface (2020), **David A. Patterson**
 
 ## Algorithms & Data Strucutures
 - [ ] Introduction to Algorithms 4th (2022), **Thomas H. Cormen**
