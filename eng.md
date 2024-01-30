@@ -1,3 +1,4 @@
+- [Common Knowledge](#common-knowledge)
 - [Computer Science](#computer-science)
   - [Algorithms \& Data Strucutures](#algorithms--data-strucutures)
   - [Compiler](#compiler)
@@ -15,6 +16,8 @@
 - [AI](#ai)
 - [DS](#ds)
 
+# Common Knowledge
+- [ ] How to Solve It: A New Aspect of Mathematical Method (2014)
 
 # Computer Science
 - [x] Computer Networking: A Top-Down Approach 6th (2012), **James F. Kurose**
