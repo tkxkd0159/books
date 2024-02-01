@@ -171,11 +171,15 @@
 ---
 - [ ] Linux Security Cookbook (2003), **Daniel J. Barrett**
 - [ ] The Linux Programming Interface: A Linux and UNIX System Programming Handbook (2010), **Michael Kerrisk**
+- [ ] Linux Kernel Development (2010), **Robert Love**
 - [ ] The Linux Command Line (2019), **William Shotts**
 - [ ] Linux Bible (2020), **Christopher Negus**
 - [ ] How Linux Works (2021), **Brian Ward**
 - [ ] Linux Command Line and Shell Scripting Bible (2021), **Richard Blum**
 - [ ] Mastering Ubuntu Server (2022), **Jay LaCroix**
+- [ ] BPF Performance Tools (2019), **Brendan Gregg**
+- [ ] Systems Performance (2020), **Brendan Gregg**
+- [ ] Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security (2023), **Liz Rice**
 
 # AI
 - [ ] AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence (2020), **Laurence Moroney**
