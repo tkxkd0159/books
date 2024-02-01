@@ -176,6 +176,7 @@
 - [ ] Linux Bible (2020), **Christopher Negus**
 - [ ] How Linux Works (2021), **Brian Ward**
 - [ ] Linux Command Line and Shell Scripting Bible (2021), **Richard Blum**
+- [ ] Efficient Linux at the Command Line: Boost Your Command-Line Skills (2022)
 - [ ] Mastering Ubuntu Server (2022), **Jay LaCroix**
 - [ ] BPF Performance Tools (2019), **Brendan Gregg**
 - [ ] Systems Performance (2020), **Brendan Gregg**
