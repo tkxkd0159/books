@@ -55,24 +55,25 @@
 - [ ] Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World 3rd (2012), **William Kent**
 - [ ] Database Systems: Design, Implementation, & Management (2022), **Carlos Coronel**
 
-# Dev
+# Dev      
 ## Theory
-- [ ] Software Engineering at Google (2020), **Titus Winters, Tom Manshreck, Hyrum Wright**
-- [ ] The Pragmatic Programmer (1999), **David Thomas**
+- [ ] The Pragmatic Programmer (1999), **David Thomas** => 실용주의 프로그래머
 - [ ] Programming Pearls (1999), **Jon Bentley** => 생각하는 프로그래밍
 - [ ] Working Effectively with Legacy Code (2004), **Michael Feathers**
 - [ ] Clean Code: A Handbook of Agile Software Craftsmanship (2008), **Robert C. Martin**
 - [ ] Refactoring: Improving the Design of Existing Code 2nd (2018), **Martin Fowler**
 - [ ] The Clean Coder: A Code of Conduct for Professional Programmers (2011), **Robert C. Martin**
 - [ ] Clean Craftsmanship: Disciplines, Standards, and Ethics (2021), **Robert C. Martin**
-- [ ] Kollected Kode Vicious, The (2020), **George V. Neville-Neil** => 개발 지옥
-- [ ] 도메인 주도 개발 시작하기 (2022), **최범균**
 - [ ] Write Great Code, Volume 1, Understanding the Machine (2020)
 - [ ] Write Great Code, Volume 2, Thinking Low-Level, Writing High-Level (2020)
 - [ ] Write Great Code, Volume 3: Engineering Software (2020)
 - [ ] Five Lines of Code: How and when to refactor (2021)
 - [ ] Good Code, Bad Code: Think like a software engineer (2021)
 - [ ] Street Coder: The rules to break and how to break them (2021)
+---
+- [ ] Release It!: Design and Deploy Production-Ready Software (2018), **Michael Nygard**
+- [ ] Kollected Kode Vicious, The (2020), **George V. Neville-Neil** => 개발 지옥
+- [ ] Software Engineering at Google (2020), **Titus Winters, Tom Manshreck, Hyrum Wright**
 ---
 - [ ] Design Patterns: Elements of Reusable Object-Oriented Software (1994)
 - [ ] Dive into Design patterns (2019)
@@ -86,6 +87,7 @@
 - [ ] Unit Testing Principles, Practices, and Patterns (2021), **Vladimir Khorikov**
 - [ ] Effective Software Testing: A developer's guide (2022), **Mauricio Aniche**
 ---
+- [ ] 도메인 주도 개발 시작하기 (2022), **최범균**
 - [ ] Grokking Functional Programming (2022), **Michal Plachta**
 - [ ] 동시성 프로그래밍 (2022), **다카노 유키**
 
