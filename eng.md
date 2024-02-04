@@ -155,6 +155,10 @@
 - [ ] Nginx HTTP Server (2018), **Martin Bjerretoft Fjordvald**
 - [ ] NGINX Unit Cookbook: Recipes for Using a Versatile Open Source Server (2020), **Derek DeJonghe**
 ---
+- [ ] Introducing MLOps: How to Scale Machine Learning in the Enterprise (2021)
+- [ ] Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020)
+- [ ] Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022)
+---
 - [ ] Container Security (2020), **Liz Rice**
 - [ ] Continuous Delivery with Docker and Jenkins (2022), **Rafal Leszko**
 - [ ] 시작하세요! 도커/쿠버네티스 (2020), **용찬호**
