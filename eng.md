@@ -1,6 +1,7 @@
 - [Common Knowledge](#common-knowledge)
 - [Computer Science](#computer-science)
   - [Algorithms \& Data Strucutures](#algorithms--data-strucutures)
+  - [Operating Systems](#operating-systems)
   - [Compiler](#compiler)
   - [Database](#database)
 - [Dev](#dev)
