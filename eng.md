@@ -24,9 +24,11 @@
 - [x] Computer Networking: A Top-Down Approach 6th (2012), **James F. Kurose**
 - [ ] 후니의 쉽게 쓴 시스코 네트워킹 (2020), **진강훈**
 - [ ] Code: The Hidden Language of Computer Hardware and Software 2nd (2020), **Charles Petzold**
-- [x] Operating System Concepts 10th (2021), **Abraham Silberschatz**
 - [ ] 쉽게 배우는 운영체제 (2018), **조성호**
 - [ ] Operating Systems: Three Easy Pieces (2018), **Remzi H Arpaci-Dusseau**
+- [ ] Understanding Operating Systems 8th (2017), **Ann McIver McHoes**
+- [ ] Guide to Operating Systems 6th (2020), **Greg Tomsho**
+- [x] Operating System Concepts 10th (2021), **Abraham Silberschatz**
 - [ ] 쉽게 배우는 소프트웨어 공학 (2021), **김치수**
 ---
 - [ ] The Secret Life of Programs: Understand Computers (2019), **Jonathan E. Steinhart**
