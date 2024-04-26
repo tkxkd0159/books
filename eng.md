@@ -28,6 +28,7 @@
 - [ ] Operating Systems: Three Easy Pieces (2018), **Remzi H Arpaci-Dusseau**
 - [ ] Understanding Operating Systems 8th (2017), **Ann McIver McHoes**
 - [ ] Guide to Operating Systems 6th (2020), **Greg Tomsho**
+- [ ] Modern Operating Systems 4th (2014), **Andrew S. Tanenbaum**
 - [x] Operating System Concepts 10th (2021), **Abraham Silberschatz**
 - [ ] 쉽게 배우는 소프트웨어 공학 (2021), **김치수**
 ---
