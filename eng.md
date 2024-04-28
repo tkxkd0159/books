@@ -26,8 +26,9 @@
 - [ ] 후니의 쉽게 쓴 시스코 네트워킹 (2020), **진강훈**
 - [ ] 쉽게 배우는 소프트웨어 공학 (2021), **김치수**
 ---
+- [ ] How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine (2020), **Matthew Justice**
 - [ ] Code: The Hidden Language of Computer Hardware and Software 2nd (2020), **Charles Petzold**
-- [ ] The Secret Life of Programs: Understand Computers (2019), **Jonathan E. Steinhart** => 한 권으로 읽는 컴퓨터 구조와 프로그래
+- [ ] The Secret Life of Programs: Understand Computers (2019), **Jonathan E. Steinhart** => 한 권으로 읽는 컴퓨터 구조와 프로그래밍
 - [ ] Structure and Interpretation of Computer Programs (SICP) 2nd (1996), **Harold Abelson**
 - [ ] The Elements of Computing Systems (2021)
 - [ ] Dive Into Systems: A Gentle Introduction to Computer Systems (2022), **Suzanne J. Matthews** => 컴퓨터 시스템 딥다이브
