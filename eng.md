@@ -4,12 +4,13 @@
   - [Operating Systems](#operating-systems)
   - [Compiler](#compiler)
   - [Database](#database)
+  - [Network](#network)
+  - [Distributed System](#distributed-system)
 - [Dev](#dev)
   - [Theory](#theory)
   - [System Design](#system-design)
     - [Architecture](#architecture)
     - [Data Engineering](#data-engineering)
-    - [Distributed System](#distributed-system)
   - [Web](#web)
   - [Soft Skills](#soft-skills)
   - [Hands-On](#hands-on)
@@ -22,8 +23,6 @@
 - [ ] Clean Agile: Back to Basics (2019), **Robert C. Martin**
 
 # Computer Science
-- [x] Computer Networking: A Top-Down Approach 6th (2012), **James F. Kurose**
-- [ ] 후니의 쉽게 쓴 시스코 네트워킹 (2020), **진강훈**
 - [ ] 쉽게 배우는 소프트웨어 공학 (2021), **김치수**
 ---
 - [ ] How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine (2020), **Matthew Justice**
@@ -62,6 +61,15 @@
 - [ ] Readings in Database Systems (2005), **peter Bailis**
 - [ ] Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World 3rd (2012), **William Kent**
 - [ ] Database Systems: Design, Implementation, & Management (2022), **Carlos Coronel**
+
+## Network
+- [x] Computer Networking: A Top-Down Approach 8th (2020), **James F. Kurose**
+- [ ] 후니의 쉽게 쓴 시스코 네트워킹 (2020), **진강훈**
+- [ ] Network Programmability and Automation: Skills for the Next-Generation Network Engineer (2023), **Matt Oswalt**
+
+## Distributed System
+- [ ] Introduction to Reliable and Secure Distributed Programming (2011), **Christian Cachin**
+- [ ] Distributed Systems (2023), **Maarten van Steen**
 
 # Dev      
 ## Theory
@@ -125,11 +133,6 @@
 - [ ] Data-Oriented Programming: Reduce software complexity (2022), **Yehonathan Sharvit**
 - [ ] Fundamentals of Data Engineering: Plan and Build Robust Data Systems (2022), **Joe Reis**
 - [ ] Streaming Data Mesh: A Model for Optimizing Real-Time Data Services (2023), **Hubert Dulay**
-
-
-### Distributed System
-- [ ] Introduction to Reliable and Secure Distributed Programming (2011), **Christian Cachin**
-- [ ] Distributed Systems (2023), **Maarten van Steen**
 
 ## Web
 - [ ] OAuth 2 in Action (2017), **Justin Richer**
