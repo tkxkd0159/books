@@ -37,6 +37,7 @@
 ## Algorithms & Data Strucutures
 - [ ] Introduction to Algorithms 4th (2022), **Thomas H. Cormen**
 - [ ] The Algorithm Design Manual (2020), **Steven S. Skiena**
+- [ ] Data Structures the Fun Way (2022), **Jeremy Kubica**
 
 ## Operating Systems
 - [ ] 쉽게 배우는 운영체제 (2018), **조성호**
@@ -128,8 +129,7 @@
 
 ### Distributed System
 - [ ] Introduction to Reliable and Secure Distributed Programming (2011), **Christian Cachin**
-- [ ] Distributed Systems (2017), **Maarten van Steen**
-- [ ] Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services (2018), **Brendan Burns**
+- [ ] Distributed Systems (2023), **Maarten van Steen**
 
 ## Web
 - [ ] OAuth 2 in Action (2017), **Justin Richer**
