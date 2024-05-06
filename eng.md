@@ -69,6 +69,8 @@
 
 ## Distributed System
 - [ ] Introduction to Reliable and Secure Distributed Programming (2011), **Christian Cachin**
+- [ ] Fault-Tolerant Message-Passing Distributed Systems: An Algorithmic Approach (2018), **Michel Raynal**
+- [ ] Notes on Theory of Distributed Systems (2021), **James Aspnes**
 - [ ] Distributed Systems (2023), **Maarten van Steen**
 
 # Dev      
