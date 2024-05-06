@@ -65,6 +65,7 @@
 ## Network
 - [x] Computer Networking: A Top-Down Approach 8th (2020), **James F. Kurose**
 - [ ] 후니의 쉽게 쓴 시스코 네트워킹 (2020), **진강훈**
+- [ ] Real World HTTP (2019), **시부카와 요시키**
 - [ ] Network Programmability and Automation: Skills for the Next-Generation Network Engineer (2023), **Matt Oswalt**
 
 ## Distributed System
@@ -138,7 +139,6 @@
 
 ## Web
 - [ ] OAuth 2 in Action (2017), **Justin Richer**
-- [ ] Real World HTTP (2019), 시부카와 요시키
 - [ ] API Design Patterns (2021), **JJ Geewax**
 - [ ] Designing APIs with Swagger and OpenAPI (2022), **Joshua S. Ponelat** => OpenAPI와 스웨거를 활용한 실전 API 설계
 
