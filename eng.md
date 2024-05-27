@@ -83,12 +83,13 @@
 - [ ] Refactoring: Improving the Design of Existing Code 2nd (2018), **Martin Fowler**
 - [ ] The Clean Coder: A Code of Conduct for Professional Programmers (2011), **Robert C. Martin**
 - [ ] Clean Craftsmanship: Disciplines, Standards, and Ethics (2021), **Robert C. Martin**
-- [ ] Write Great Code, Volume 1, Understanding the Machine (2020)
-- [ ] Write Great Code, Volume 2, Thinking Low-Level, Writing High-Level (2020)
-- [ ] Write Great Code, Volume 3: Engineering Software (2020)
-- [ ] Five Lines of Code: How and when to refactor (2021)
-- [ ] Good Code, Bad Code: Think like a software engineer (2021)
-- [ ] Street Coder: The rules to break and how to break them (2021)
+- [ ] Write Great Code, Volume 1, Understanding the Machine (2020), **Randall Hyde**
+- [ ] Write Great Code, Volume 2, Thinking Low-Level, Writing High-Level (2020), **Randall Hyde**
+- [ ] Write Great Code, Volume 3: Engineering Software (2020), **Randall Hyde**
+- [ ] Five Lines of Code: How and when to refactor (2021), **Christian Clausen**
+- [ ] Good Code, Bad Code: Think like a software engineer (2021), **Tom Long**
+- [ ] Street Coder: The rules to break and how to break them (2021), **Sedat Kapanoglu**
+- [ ] Tidy First?: A Personal Exercise in Empirical Software Design (2023), **Kent Beck**
 ---
 - [ ] Release It!: Design and Deploy Production-Ready Software (2018), **Michael Nygard**
 - [ ] Kollected Kode Vicious, The (2020), **George V. Neville-Neil** => 개발 지옥
@@ -141,6 +142,7 @@
 - [ ] OAuth 2 in Action (2017), **Justin Richer**
 - [ ] API Design Patterns (2021), **JJ Geewax**
 - [ ] Designing APIs with Swagger and OpenAPI (2022), **Joshua S. Ponelat** => OpenAPI와 스웨거를 활용한 실전 API 설계
+- [ ] RESTful Web API Patterns and Practices Cookbook: Connecting and Orchestrating Microservices and Distributed Data (2022), **Mike Amundsen** => RESTful Web API 패턴과 모범 사례
 
 ## Soft Skills
 - [ ] The Mythical Man-Month (1975), **Frederick Brooks Jr.**
