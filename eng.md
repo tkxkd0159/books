@@ -160,19 +160,15 @@
 ## DevOps
 - [ ] Grokking Continuous Delivery (2022), **Christie Wilson**
 - [ ] Infrastructure as Code: Dynamic Systems for the Cloud Age (2021), **Kief Morris**
-- [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
-- [ ] Terraform: Up and Running: Writing Infrastructure as Code (2022), **Yevgeniy Brikman**
-- [ ] Apache Pulsar in Action (2021), **David Kjerrumgaard**
-- [ ] Mastering Apache Pulsar: Cloud Native Event Streaming at Scale (2022), **Jowanza Joseph**
-- [ ] Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale (2021), **Gwen Shapira**
+
+<!--- Observability Engineering --->
+- [ ] Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking (2019), **David Calavera**
+- [ ] Observability Engineering: Achieving Production Excellence (2022), **Charity Majors**
+- [ ] Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security (2023), **Liz Rice**
+- [ ] AWS Observability Handbook: Monitor, trace, and alert your cloud applications (2023), **Phani Kumar Lingamallu**
+
 ---
-- [ ] Nginx HTTP Server (2018), **Martin Bjerretoft Fjordvald**
-- [ ] NGINX Unit Cookbook: Recipes for Using a Versatile Open Source Server (2020), **Derek DeJonghe**
----
-- [ ] Introducing MLOps: How to Scale Machine Learning in the Enterprise (2021)
-- [ ] Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020)
-- [ ] Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022)
----
+<!--- Container & Kubernetes --->
 - [ ] Container Security (2020), **Liz Rice**
 - [ ] Continuous Delivery with Docker and Jenkins (2022), **Rafal Leszko**
 - [ ] 시작하세요! 도커/쿠버네티스 (2020), **용찬호**
@@ -183,12 +179,29 @@
 - [ ] The Kubernetes Book: 2023 Edition (2023), **Nigel Poulton**
 
 ---
+<!--- MLOps --->
+- [ ] Introducing MLOps: How to Scale Machine Learning in the Enterprise (2021)
+- [ ] Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020)
+- [ ] Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022)
+
+---
+<!--- AWS --->
 - [ ] 따라하며 배우는 AWS 네트워크 입분 (2020), **김원일**
 - [ ] 서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 (2019), **김담형**
 - [ ] AWS 컨테이너 설계와 구축 철저 입문 (2022), **아라이 마사야**
 - [ ] AWS Cookbook: Recipes for Success on AWS (2022), **John Culkin**
 
+<!--- Service --->
+- [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
+- [ ] Terraform: Up and Running: Writing Infrastructure as Code (2022), **Yevgeniy Brikman**
+- [ ] Apache Pulsar in Action (2021), **David Kjerrumgaard**
+- [ ] Mastering Apache Pulsar: Cloud Native Event Streaming at Scale (2022), **Jowanza Joseph**
+- [ ] Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale (2021), **Gwen Shapira**
+- [ ] Nginx HTTP Server (2018), **Martin Bjerretoft Fjordvald**
+- [ ] Nginx Unit Cookbook: Recipes for Using a Versatile Open Source Server (2020), **Derek DeJonghe**
+
 ---
+<!--- Linux --->
 - [ ] Linux Security Cookbook (2003), **Daniel J. Barrett**
 - [ ] The Linux Programming Interface: A Linux and UNIX System Programming Handbook (2010), **Michael Kerrisk**
 - [ ] Linux Kernel Development (2010), **Robert Love**
@@ -200,7 +213,6 @@
 - [ ] Mastering Ubuntu Server (2022), **Jay LaCroix**
 - [ ] BPF Performance Tools (2019), **Brendan Gregg**
 - [ ] Systems Performance (2020), **Brendan Gregg**
-- [ ] Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security (2023), **Liz Rice**
 
 # AI
 - [ ] AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence (2020), **Laurence Moroney**
