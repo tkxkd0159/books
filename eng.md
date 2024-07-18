@@ -121,7 +121,6 @@
 - [ ] Just Enough Software Architecture: A Risk-Driven Approach (2010), **George H. Fairbanks**
 - [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design (2017), **Robert C. Martin**
 - [ ] Software Architect's Handbook: Become a successful software architect by implementing effective architecture concepts (2018), **Joseph Ingeno**
-- [ ] <ins>Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems</ins> (2020), **Heather Adkins**
 - [ ] <ins>Fundamentals of Software Architecture: An Engineering Approach</ins> (2020), **Mark Richards**
 - [ ] Building Event-Driven Microservices: Leveraging Organizational Data at Scale (2020), **Adam Bellemare**
 - [ ] Building Microservices: Designing Fine-Grained Systems (2021), **Sam Newman**
@@ -160,12 +159,6 @@
 ## DevOps
 - [ ] Grokking Continuous Delivery (2022), **Christie Wilson**
 - [ ] Infrastructure as Code: Dynamic Systems for the Cloud Age (2021), **Kief Morris**
-
-<!--- Observability Engineering --->
-- [ ] Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking (2019), **David Calavera**
-- [ ] Observability Engineering: Achieving Production Excellence (2022), **Charity Majors**
-- [ ] Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security (2023), **Liz Rice**
-- [ ] AWS Observability Handbook: Monitor, trace, and alert your cloud applications (2023), **Phani Kumar Lingamallu**
 
 ---
 <!--- Container & Kubernetes --->
@@ -213,6 +206,17 @@
 - [ ] Mastering Ubuntu Server (2022), **Jay LaCroix**
 - [ ] BPF Performance Tools (2019), **Brendan Gregg**
 - [ ] Systems Performance (2020), **Brendan Gregg**
+
+### Site Reliability Engineering
+- [ ] Site Reliability Engineering: How Google Runs Production Systems (2016), **Jennifer Petoff**
+- [ ] <ins>Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems</ins> (2020), **Heather Adkins**
+- [ ] The Site Reliability Workbook: Practical Ways to Implement SRE (2018), **Betsy Beyer**
+---
+<!--- Observability Engineering --->
+- [ ] Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking (2019), **David Calavera**
+- [ ] Observability Engineering: Achieving Production Excellence (2022), **Charity Majors**
+- [ ] Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security (2023), **Liz Rice**
+- [ ] AWS Observability Handbook: Monitor, trace, and alert your cloud applications (2023), **Phani Kumar Lingamallu**
 
 # AI
 - [ ] AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence (2020), **Laurence Moroney**
