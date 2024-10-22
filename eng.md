@@ -49,7 +49,7 @@
 ## Compiler
 - [ ] 컴파일러의 이해 (2020), **박두순**
 - [ ] 컴파일러 만들기 (2021), **유종원**
-- [ ] Writing a Compiler in Go (2018), **Thorsten Ball**
+- [ ] Writing an Interpreter in Go (2018), **Thorsten Ball**
 - [ ] Writing a Compiler in Go (2018), **Thorsten Ball**
 - [ ] Crafting Interpreters (2021), **Robert Nystrom**
 - [ ] Engineering a Compiler (2022), **Keith D. Cooper**
@@ -61,6 +61,14 @@
 - [ ] Readings in Database Systems (2005), **peter Bailis**
 - [ ] Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World 3rd (2012), **William Kent**
 - [ ] Database Systems: Design, Implementation, & Management (2022), **Carlos Coronel**
+
+- [ ] Learning SQL: Generate, Manipulate, and Retrieve Data (2020), **Alan Beaulieu**
+- [ ] Practical SQL, 2nd Edition: A Beginner's Guide to Storytelling with Data (2022) [epub], **Anthony DeBarros**
+- [ ] SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights (2021), **Cathy Tanimura**
+
+- [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
+- [ ] Elasticsearch in Action 2ed (2023), **Madhusudhan Konda**
+
 
 ## Network
 - [x] Computer Networking: A Top-Down Approach 8th (2020), **James F. Kurose**
@@ -185,7 +193,6 @@
 - [ ] AWS Cookbook: Recipes for Success on AWS (2022), **John Culkin**
 
 <!--- Service --->
-- [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
 - [ ] Terraform: Up and Running: Writing Infrastructure as Code (2022), **Yevgeniy Brikman**
 - [ ] Apache Pulsar in Action (2021), **David Kjerrumgaard**
 - [ ] Mastering Apache Pulsar: Cloud Native Event Streaming at Scale (2022), **Jowanza Joseph**
