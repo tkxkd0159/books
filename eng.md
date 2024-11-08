@@ -66,8 +66,10 @@
 - [ ] Practical SQL, 2nd Edition: A Beginner's Guide to Storytelling with Data (2022) [epub], **Anthony DeBarros**
 - [ ] SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights (2021), **Cathy Tanimura**
 
+- [ ] MongoDB: The Definitive Guide: Powerful and Scalable Data Storage (2019), **Shannon Bradshaw** -> 몽고DB 완벽 가이드(MongoDB 4.2 기준)
+
 - [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
-- [ ] Elasticsearch in Action 2ed (2023), **Madhusudhan Konda**
+- [ ] Elasticsearch in Action 2ed (2023) [epub], **Madhusudhan Konda**
 
 
 ## Network
@@ -161,7 +163,6 @@
 - [ ] Personal Kanban: Mapping Work | Navigating Life (2011), **Jim Benson**
 
 ## Hands-On
-- [ ] MongoDB: The Definitive Guide: Powerful and Scalable Data Storage (2019), **Shannon Bradshaw**
 - [x] Web Development with Node and Express: Leveraging the JavaScript Stack (2019), **Ethan Brown**
 
 ## DevOps
