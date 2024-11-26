@@ -126,6 +126,8 @@
 - [ ] No Silver Bullet —Essence and Accident in Software Engineering (1986), **Fred Brooks**
 - [ ] Dependency Injection Principles, Practices, and Patterns (2019), **Mark Seemann**
 - [ ] Understanding Software Dynamics (2021), **Richard L. Sites**
+- [ ] System Design Interview – An insider's guide (2020), **Alex Xu**
+- [ ] System Design Interview – An Insider's Guide: Volume 2 (2022), **Alex Xu**
 
 ### Architecture
 - [ ] Just Enough Software Architecture: A Risk-Driven Approach (2010), **George H. Fairbanks**
