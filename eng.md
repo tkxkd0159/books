@@ -29,9 +29,10 @@
 - [ ] Code: The Hidden Language of Computer Hardware and Software 2nd (2020), **Charles Petzold**
 - [ ] The Secret Life of Programs: Understand Computers (2019), **Jonathan E. Steinhart** => 한 권으로 읽는 컴퓨터 구조와 프로그래밍
 - [ ] Structure and Interpretation of Computer Programs (SICP) 2nd (1996), **Harold Abelson**
-- [ ] The Elements of Computing Systems (2021)
+- [ ] The Elements of Computing Systems (2021) => 밑바닥부터 만드는 컴퓨팅 시스템
 - [ ] Dive Into Systems: A Gentle Introduction to Computer Systems (2022), **Suzanne J. Matthews** => 컴퓨터 시스템 딥다이브
 - [ ] Computer Organization and Design RISC-V Edition: The Hardware Software Interface (2020), **David A. Patterson**
+- [ ] 
 
 ## Algorithms & Data Strucutures
 - [ ] Introduction to Algorithms 4th (2022), **Thomas H. Cormen**
@@ -120,6 +121,8 @@
 - [ ] 도메인 주도 개발 시작하기 (2022), **최범균**
 - [ ] Grokking Functional Programming (2022), **Michal Plachta**
 - [ ] 동시성 프로그래밍 (2022), **다카노 유키**
+- [ ] Grokking Concurrency (2024), **Kiril Bobrov**
+- [ ] Grokking Web Application Security (2024), **Malcolm McDonald**
 
 
 ## System Design
