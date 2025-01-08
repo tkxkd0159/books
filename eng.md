@@ -174,14 +174,9 @@
 ## Hands-On
 - [x] Web Development with Node and Express: Leveraging the JavaScript Stack (2019), **Ethan Brown**
 
-## DevOps
+# DevOps
 - [ ] Grokking Continuous Delivery (2022), **Christie Wilson**
 - [ ] Infrastructure as Code: Dynamic Systems for the Cloud Age (2021), **Kief Morris**
----
-<!--- MLOps --->
-- [ ] Introducing MLOps: How to Scale Machine Learning in the Enterprise (2021)
-- [ ] Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020)
-- [ ] Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022)
 ---
 <!--- Service --->
 - [ ] Terraform: Up and Running: Writing Infrastructure as Code (2022), **Yevgeniy Brikman**
@@ -191,7 +186,7 @@
 - [ ] Nginx HTTP Server (2018), **Martin Bjerretoft Fjordvald**
 - [ ] Nginx Unit Cookbook: Recipes for Using a Versatile Open Source Server (2020), **Derek DeJonghe**
 
-### Linux
+## Linux
 - [ ] Linux Security Cookbook (2003), **Daniel J. Barrett**
 - [ ] The Linux Programming Interface: A Linux and UNIX System Programming Handbook (2010), **Michael Kerrisk**
 - [ ] Linux Kernel Development (2010), **Robert Love**
@@ -204,7 +199,7 @@
 - [ ] BPF Performance Tools (2019), **Brendan Gregg**
 - [ ] Systems Performance (2020), **Brendan Gregg**
 
-### K8S
+## K8S
 <!--- Container --->
 - [ ] Container Security (2020), **Liz Rice**
 - [ ] Continuous Delivery with Docker and Jenkins (2022), **Rafal Leszko**
@@ -222,7 +217,7 @@
 - [ ] Istio in Action (2022), **Christian Posta** -> [epub]
 
 
-### Cloud
+## Cloud
 <!--- AWS --->
 - [ ] 따라하며 배우는 AWS 네트워크 입분 (2020), **김원일**
 - [ ] 서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 (2019), **김담형**
@@ -230,7 +225,7 @@
 - [ ] AWS Cookbook: Recipes for Success on AWS (2022), **John Culkin**
 ---
 
-### Site Reliability Engineering
+## Site Reliability Engineering
 - [ ] Site Reliability Engineering: How Google Runs Production Systems (2016), **Jennifer Petoff**
 - [ ] <ins>Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems</ins> (2020), **Heather Adkins**
 - [ ] The Site Reliability Workbook: Practical Ways to Implement SRE (2018), **Betsy Beyer**
@@ -240,6 +235,11 @@
 - [ ] Observability Engineering: Achieving Production Excellence (2022), **Charity Majors**
 - [ ] Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security (2023), **Liz Rice**
 - [ ] AWS Observability Handbook: Monitor, trace, and alert your cloud applications (2023), **Phani Kumar Lingamallu**
+
+## MLOps
+- [ ] Introducing MLOps: How to Scale Machine Learning in the Enterprise (2021)
+- [ ] Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020)
+- [ ] Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022)
 
 # AI
 - [ ] AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence (2020), **Laurence Moroney**
