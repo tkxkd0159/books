@@ -14,7 +14,11 @@
   - [Web](#web)
   - [Soft Skills](#soft-skills)
   - [Hands-On](#hands-on)
-- [DevOps](#devops)
+  - [DevOps](#devops)
+    - [Linux](#linux)
+    - [K8S](#k8s)
+    - [Cloud](#cloud)
+    - [Site Reliability Engineering](#site-reliability-engineering)
 - [AI](#ai)
 - [DS](#ds)
 
@@ -64,13 +68,13 @@
 - [ ] Database Systems: Design, Implementation, & Management (2022), **Carlos Coronel**
 
 - [ ] Learning SQL: Generate, Manipulate, and Retrieve Data (2020), **Alan Beaulieu**
-- [ ] Practical SQL, 2nd Edition: A Beginner's Guide to Storytelling with Data (2022) [epub], **Anthony DeBarros**
+- [ ] Practical SQL, 2nd Edition: A Beginner's Guide to Storytelling with Data (2022), **Anthony DeBarros** -> [epub]
 - [ ] SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights (2021), **Cathy Tanimura**
 
 - [ ] MongoDB: The Definitive Guide: Powerful and Scalable Data Storage (2019), **Shannon Bradshaw** -> 몽고DB 완벽 가이드(MongoDB 4.2 기준)
 
 - [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
-- [ ] Elasticsearch in Action 2ed (2023) [epub], **Madhusudhan Konda**
+- [ ] Elasticsearch in Action 2ed (2023), **Madhusudhan Konda** -> [epub]
 
 
 ## Network
@@ -173,34 +177,12 @@
 ## DevOps
 - [ ] Grokking Continuous Delivery (2022), **Christie Wilson**
 - [ ] Infrastructure as Code: Dynamic Systems for the Cloud Age (2021), **Kief Morris**
-
----
-<!--- Container & Kubernetes --->
-- [ ] Container Security (2020), **Liz Rice**
-- [ ] Continuous Delivery with Docker and Jenkins (2022), **Rafal Leszko**
-- [ ] 시작하세요! 도커/쿠버네티스 (2020), **용찬호**
-- [ ] 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 (2021), **조훈**
-- [ ] 24단게 실습으로 정복하는 쿠버네티스 (2022), **이정훈**
-- [ ] Learn Kubernetes in a Month of Lunches (2021), **Elton Stoneman**  => 쿠버네티스 교과서
-- [ ] The Book of Kubernetes: A Complete Guide to Container Orchestration (2022), **Alan Hohn**
-- [ ] Kubernetes: Up and Running: Dive into the Future of Infrastructure 3rd (2022), **Brendan Burns**   
-- [ ] Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2023), **Brendan Burns**
-- [ ] The Kubernetes Book: 2024 Edition (2023), **Nigel Poulton**
-- [ ] Kubernetes – An Enterprise Guide 3rd (2024), **Marc Boorshtein**
-
 ---
 <!--- MLOps --->
 - [ ] Introducing MLOps: How to Scale Machine Learning in the Enterprise (2021)
 - [ ] Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020)
 - [ ] Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022)
-
 ---
-<!--- AWS --->
-- [ ] 따라하며 배우는 AWS 네트워크 입분 (2020), **김원일**
-- [ ] 서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 (2019), **김담형**
-- [ ] AWS 컨테이너 설계와 구축 철저 입문 (2022), **아라이 마사야**
-- [ ] AWS Cookbook: Recipes for Success on AWS (2022), **John Culkin**
-
 <!--- Service --->
 - [ ] Terraform: Up and Running: Writing Infrastructure as Code (2022), **Yevgeniy Brikman**
 - [ ] Apache Pulsar in Action (2021), **David Kjerrumgaard**
@@ -209,8 +191,7 @@
 - [ ] Nginx HTTP Server (2018), **Martin Bjerretoft Fjordvald**
 - [ ] Nginx Unit Cookbook: Recipes for Using a Versatile Open Source Server (2020), **Derek DeJonghe**
 
----
-<!--- Linux --->
+### Linux
 - [ ] Linux Security Cookbook (2003), **Daniel J. Barrett**
 - [ ] The Linux Programming Interface: A Linux and UNIX System Programming Handbook (2010), **Michael Kerrisk**
 - [ ] Linux Kernel Development (2010), **Robert Love**
@@ -222,6 +203,32 @@
 - [ ] Mastering Ubuntu Server (2022), **Jay LaCroix**
 - [ ] BPF Performance Tools (2019), **Brendan Gregg**
 - [ ] Systems Performance (2020), **Brendan Gregg**
+
+### K8S
+<!--- Container --->
+- [ ] Container Security (2020), **Liz Rice**
+- [ ] Continuous Delivery with Docker and Jenkins (2022), **Rafal Leszko**
+---
+<!--- k8s --->
+- [ ] 시작하세요! 도커/쿠버네티스 (2020), **용찬호**
+- [ ] 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 (2021), **조훈**
+- [ ] 24단게 실습으로 정복하는 쿠버네티스 (2022), **이정훈**
+- [ ] Learn Kubernetes in a Month of Lunches (2021), **Elton Stoneman**  => 쿠버네티스 교과서
+- [ ] The Book of Kubernetes: A Complete Guide to Container Orchestration (2022), **Alan Hohn**
+- [ ] Kubernetes: Up and Running: Dive into the Future of Infrastructure 3rd (2022), **Brendan Burns**   
+- [ ] Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2023), **Brendan Burns**
+- [ ] The Kubernetes Book: 2024 Edition (2023), **Nigel Poulton**
+- [ ] Kubernetes – An Enterprise Guide 3rd (2024), **Marc Boorshtein**
+- [ ] Istio in Action (2022), **Christian Posta** -> [epub]
+
+
+### Cloud
+<!--- AWS --->
+- [ ] 따라하며 배우는 AWS 네트워크 입분 (2020), **김원일**
+- [ ] 서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 (2019), **김담형**
+- [ ] AWS 컨테이너 설계와 구축 철저 입문 (2022), **아라이 마사야**
+- [ ] AWS Cookbook: Recipes for Success on AWS (2022), **John Culkin**
+---
 
 ### Site Reliability Engineering
 - [ ] Site Reliability Engineering: How Google Runs Production Systems (2016), **Jennifer Petoff**
