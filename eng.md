@@ -121,6 +121,7 @@
 - [ ] Test Driven Development: By Example (2002), **Kent Beck**
 - [ ] Unit Testing Principles, Practices, and Patterns (2021), **Vladimir Khorikov**
 - [ ] Effective Software Testing: A developer's guide (2022), **Mauricio Aniche**
+- [ ] The Art of Unit Testing (2024), **Roy Osherove** -> [epub]
 ---
 - [ ] 도메인 주도 개발 시작하기 (2022), **최범균**
 - [ ] Grokking Functional Programming (2022), **Michal Plachta**
