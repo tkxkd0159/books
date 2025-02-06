@@ -207,16 +207,17 @@
 ---
 <!--- k8s --->
 - [ ] 시작하세요! 도커/쿠버네티스 (2020), **용찬호**
+- [ ] Learn Kubernetes in a Month of Lunches (2021), **Elton Stoneman**  => 쿠버네티스 교과서
 - [ ] 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 (2021), **조훈**
 - [ ] 24단게 실습으로 정복하는 쿠버네티스 (2022), **이정훈**
-- [ ] Learn Kubernetes in a Month of Lunches (2021), **Elton Stoneman**  => 쿠버네티스 교과서
-- [ ] The Book of Kubernetes: A Complete Guide to Container Orchestration (2022), **Alan Hohn**
+- [ ] The Kubernetes Book: 2024 Edition (2023), **Nigel Poulton**
+- [ ] Kubernetes Secrets Management (2023), **Alex Soto Bueno** -> [epub]
+- [ ] Kubernetes for Developers (2024), **William Denniss** -> [epub]
+---
+- [ ] The Book of Kubernetes: A Complete Guide to Container Orchestration (2022), **Alan Hohn** -> [epub]
 - [ ] Kubernetes: Up and Running: Dive into the Future of Infrastructure 3rd (2022), **Brendan Burns**   
 - [ ] Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes (2023), **Brendan Burns**
-- [ ] The Kubernetes Book: 2024 Edition (2023), **Nigel Poulton**
-- [ ] Kubernetes – An Enterprise Guide 3rd (2024), **Marc Boorshtein**
 - [ ] Istio in Action (2022), **Christian Posta** -> [epub]
-
 
 ## Cloud
 <!--- AWS --->
