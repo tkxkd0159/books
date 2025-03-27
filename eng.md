@@ -244,6 +244,7 @@
 - [ ] Introducing MLOps: How to Scale Machine Learning in the Enterprise (2021)
 - [ ] Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps (2020)
 - [ ] Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022)
+- [ ] Distributed Machine Learning Patterns (2024) -> [epub]
 
 # AI
 - [ ] AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence (2020), **Laurence Moroney**
