@@ -124,6 +124,7 @@
 - [ ] The Art of Unit Testing (2024), **Roy Osherove** -> [epub]
 ---
 - [ ] 도메인 주도 개발 시작하기 (2022), **최범균**
+- [ ] Data-oriented Programming (2022), **Yehonathan Sharvit**
 - [ ] Grokking Functional Programming (2022), **Michal Plachta**
 - [ ] 동시성 프로그래밍 (2022), **다카노 유키**
 - [ ] Grokking Concurrency (2024), **Kiril Bobrov**
@@ -177,10 +178,11 @@
 
 # DevOps
 - [ ] Grokking Continuous Delivery (2022), **Christie Wilson**
-- [ ] Infrastructure as Code: Dynamic Systems for the Cloud Age (2021), **Kief Morris**
+- [ ] Infrastructure as Code: Designing and Delivering Dynamic Systems for the Cloud Age (2025), **Kief Morris** -> [epub]
+- [ ] Terraform: Up and Running: Writing Infrastructure as Code (2022), **Yevgeniy Brikman**
+- [ ] Ansible: Up and Running: Automating Configuration Management and Deployment the Easy Way (2022), **Bas Meijer** -> [epub]
 ---
 <!--- Service --->
-- [ ] Terraform: Up and Running: Writing Infrastructure as Code (2022), **Yevgeniy Brikman**
 - [ ] Apache Pulsar in Action (2021), **David Kjerrumgaard**
 - [ ] Mastering Apache Pulsar: Cloud Native Event Streaming at Scale (2022), **Jowanza Joseph**
 - [ ] Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale (2021), **Gwen Shapira**
