@@ -25,6 +25,7 @@
 # Common Knowledge
 - [ ] How to Solve It: A New Aspect of Mathematical Method (2014)
 - [ ] Clean Agile: Back to Basics (2019), **Robert C. Martin**
+- [Programming Languages](https://github.com/tkxkd0159/lang/blob/main/README.md)
 
 # Computer Science
 - [ ] 쉽게 배우는 소프트웨어 공학 (2021), **김치수**
@@ -237,8 +238,11 @@
 ---
 <!--- Observability Engineering --->
 - [ ] Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking (2019), **David Calavera**
-- [ ] Observability Engineering: Achieving Production Excellence (2022), **Charity Majors**
 - [ ] Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security (2023), **Liz Rice**
+- [ ] Observability Engineering: Achieving Production Excellence (2022), **Charity Majors**
+- [ ] Cloud-Native Observability with OpenTelemetry (2022), **Alex Boten** -> [epub]
+- [ ] Learning OpenTelemetry: Setting Up and Operating a Modern Observability System (2024), **Ted Young**
+- [ ] Mastering OpenTelemetry and Observability (2024), **Steve Flanders** -> [epub]
 - [ ] AWS Observability Handbook: Monitor, trace, and alert your cloud applications (2023), **Phani Kumar Lingamallu**
 
 ## MLOps
