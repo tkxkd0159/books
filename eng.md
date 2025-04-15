@@ -208,6 +208,7 @@
 - [ ] Continuous Delivery with Docker and Jenkins (2022), **Rafal Leszko**
 ---
 <!--- k8s --->
+- [ ] Kubernetes in Action (2018), **Marko Luksa**
 - [ ] 시작하세요! 도커/쿠버네티스 (2020), **용찬호**
 - [ ] Learn Kubernetes in a Month of Lunches (2021), **Elton Stoneman**  => 쿠버네티스 교과서
 - [ ] 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 (2021), **조훈**
