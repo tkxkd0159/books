@@ -239,6 +239,7 @@
 <!--- Observability Engineering --->
 - [ ] Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking (2019), **David Calavera**
 - [ ] Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security (2023), **Liz Rice**
+- [ ] Prometheus: Up & Running: Infrastructure and Application Performance Monitoring (2023), **Julien Pivotto**
 - [ ] Observability Engineering: Achieving Production Excellence (2022), **Charity Majors**
 - [ ] Cloud-Native Observability with OpenTelemetry (2022), **Alex Boten** -> [epub]
 - [ ] Learning OpenTelemetry: Setting Up and Operating a Modern Observability System (2024), **Ted Young**
