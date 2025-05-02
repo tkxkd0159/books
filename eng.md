@@ -255,8 +255,12 @@
 # AI
 - [ ] AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence (2020), **Laurence Moroney**
 - [ ] Artificial Intelligence in Finance: A Python-Based Guide (2020), **Yves Hilpisch**
-- [ ] Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022), **Chip Huyen**
 - [ ] Natural Language Processing with Transformers (2022), **Lewis Tunstall**
+- [ ] Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications (2022), **Chip Huyen** -> [epub]
+- [ ] AI Engineering: Building Applications with Foundation Models (2025), **Chip Huyen** -> [epub]
+- [ ] Build a Large Language Model (From Scratch) (2024), **Sebastian Raschka** -> [epub]
+- [ ] AI Agents in Action (2025), **Micheal Lanham** -> [epub]
+
 
 # DS
 - [ ] Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking (2013), **Foster Provost**
