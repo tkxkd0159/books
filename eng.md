@@ -142,7 +142,7 @@
 - [ ] System Design Interview – An Insider's Guide: Volume 2 (2022), **Alex Xu**
 - [ ] Acing the System Design Interview (2024)
 - [ ] System Design on AWS: Building and Scaling Enterprise Solutions (2025 -> no ebook yet)
-- [ ] System Design First Part: Intro to System Design (2025 -> no ebook yet)
+- [ ] System Design First Part: Intro to System Design (2025)
 
 ### Architecture
 - [ ] Just Enough Software Architecture: A Risk-Driven Approach (2010), **George H. Fairbanks**
