@@ -73,8 +73,8 @@
 - [ ] SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights (2021), **Cathy Tanimura**
 
 - [ ] MongoDB: The Definitive Guide: Powerful and Scalable Data Storage (2019), **Shannon Bradshaw** -> 몽고DB 완벽 가이드(MongoDB 4.2 기준)
-- [ ] Mastering MongoDB 7.0: Achieve data excellence by unlocking the full potential of MongoDB 4th (2024)
-- [ ] Practical MongoDB Aggregations: The official guide to developing optimal aggregation pipelines with MongoDB 7.0 (2023)
+- [ ] Mastering MongoDB 7.0: Achieve data excellence by unlocking the full potential of MongoDB 4th (2024) -> [epub]
+- [ ] Practical MongoDB Aggregations: The official guide to developing optimal aggregation pipelines with MongoDB 7.0 (2023) -> [epub]
 
 - [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
 - [ ] Elasticsearch in Action 2ed (2023), **Madhusudhan Konda** -> [epub]
