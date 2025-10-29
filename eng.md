@@ -80,6 +80,7 @@
 - [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
 - [ ] Elasticsearch in Action 2ed (2023), **Madhusudhan Konda** -> [epub]
 - [ ] AI-Powered Search (2025), **Trey Grainger**
+- [ ] The Definitive Guide to OpenSearch (2025), **Jon Handler** -> no file yet
 
 
 ## Network
@@ -278,5 +279,6 @@
 - [ ] Hands-On Data Visualization (2021), **Jack Dougherty**
 - [ ] Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter (2022), **Wes McKinney**
 - [ ] 사례 분석으로 배우는 데이터 시각화 (2022), **황재진**
+
 
 
