@@ -77,7 +77,11 @@
 - [ ] Practical MongoDB Aggregations: The official guide to developing optimal aggregation pipelines with MongoDB 7.0 (2023) -> [epub]
 
 ### Search
+- [ ] Information Architecture: For the Web and Beyond (2015), **Louis Rosenfeld** -> [epub]
+
 - [ ] Introduction to Information Retrieval (2008), **Christopher D. Manning**
+- [ ] Modern Information Retrieval: The Concepts and Technology Behind (2011), **Ricardo Baeza-Yates**
+- [ ] Elasticsearch: The Definitive Guide: A Distributed Real-Time Search and Analytics Engine (2015), **Clinton Gormley**
 - [ ] Relevant Search: With applications for Solr and Elasticsearch (2016), **Doug Turnbull** -> [epub]
 - [ ] Getting Started with Elastic Stack 8.0 (2022), **Asjad Athick**
 - [ ] Elasticsearch in Action 2ed (2023), **Madhusudhan Konda** -> [epub]
@@ -281,6 +285,7 @@
 - [ ] Hands-On Data Visualization (2021), **Jack Dougherty**
 - [ ] Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter (2022), **Wes McKinney**
 - [ ] 사례 분석으로 배우는 데이터 시각화 (2022), **황재진**
+
 
 
 
