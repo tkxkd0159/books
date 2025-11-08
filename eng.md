@@ -4,6 +4,7 @@
   - [Operating Systems](#operating-systems)
   - [Compiler](#compiler)
   - [Database](#database)
+    - [Search](#search) 
   - [Network](#network)
   - [Distributed System](#distributed-system)
 - [Dev](#dev)
@@ -285,6 +286,7 @@
 - [ ] Hands-On Data Visualization (2021), **Jack Dougherty**
 - [ ] Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter (2022), **Wes McKinney**
 - [ ] 사례 분석으로 배우는 데이터 시각화 (2022), **황재진**
+
 
 
 
