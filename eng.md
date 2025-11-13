@@ -146,13 +146,18 @@
 
 ## System Design
 - [ ] No Silver Bullet —Essence and Accident in Software Engineering (1986), **Fred Brooks**
+- [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017), **Martin Kleppmann**
 - [ ] Dependency Injection Principles, Practices, and Patterns (2019), **Mark Seemann**
 - [ ] Understanding Software Dynamics (2021), **Richard L. Sites**
 - [ ] System Design Interview – An insider's guide (2020), **Alex Xu**
 - [ ] System Design Interview – An Insider's Guide: Volume 2 (2022), **Alex Xu**
-- [ ] Acing the System Design Interview (2024)
+- [ ] Acing the System Design Interview (2024) -> [epub]
+- [ ] System Design First Part: Intro to System Design (2025) -> [kindle]
+
 - [ ] System Design on AWS: Building and Scaling Enterprise Solutions (2025 -> no ebook yet)
-- [ ] System Design First Part: Intro to System Design (2025)
+- [ ] System Design Interview: The Complete and Up-to-Date Guide to Master Real-World System Design and Ace Every Technical Interview (2025 -> no ebook yet)
+- [ ] System Design: Beyond the Interview (2025 -> no ebook yet)
+
 
 ### Architecture
 - [ ] Just Enough Software Architecture: A Risk-Driven Approach (2010), **George H. Fairbanks**
@@ -166,7 +171,6 @@
 - [ ] 마이크로서비스 아키텍처 구축 가이드 (2023), **김용욱**
 
 ### Data Engineering
-- [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017), **Martin Kleppmann**
 - [ ] Building an Anonymization Pipeline: Creating Safe Data (2020), **Luk Arbuckle**
 - [ ] The Practitioner's Guide to Graph Data: Applying Graph Thinking and Graph Technologies to Solve Complex Problems (2020), **Denise Gosnell Ph.D.**
 - [ ] Data Mesh: Delivering Data-Driven Value at Scale (2022), **Zhamak Dehghani**
@@ -286,6 +290,7 @@
 - [ ] Hands-On Data Visualization (2021), **Jack Dougherty**
 - [ ] Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter (2022), **Wes McKinney**
 - [ ] 사례 분석으로 배우는 데이터 시각화 (2022), **황재진**
+
 
 
 
