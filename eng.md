@@ -148,6 +148,7 @@
 - [ ] No Silver Bullet —Essence and Accident in Software Engineering (1986), **Fred Brooks**
 - [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (2017), **Martin Kleppmann**
 - [ ] Dependency Injection Principles, Practices, and Patterns (2019), **Mark Seemann**
+- [ ] Systems Engineering Principles and Practice (2020), **Alexander Kossiakoff**
 - [ ] Understanding Software Dynamics (2021), **Richard L. Sites**
 - [ ] System Design Interview – An insider's guide (2020), **Alex Xu**
 - [ ] System Design Interview – An Insider's Guide: Volume 2 (2022), **Alex Xu**
@@ -290,6 +291,7 @@
 - [ ] Hands-On Data Visualization (2021), **Jack Dougherty**
 - [ ] Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter (2022), **Wes McKinney**
 - [ ] 사례 분석으로 배우는 데이터 시각화 (2022), **황재진**
+
 
 
 
